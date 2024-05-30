@@ -1,4 +1,5 @@
 import Outputs from "./searchser";
+export const runtime = 'edge';
 
 
 
