@@ -1,4 +1,5 @@
 import Gone from './api';
+export const runtime = 'edge';
 
 
 
