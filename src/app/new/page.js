@@ -1,5 +1,5 @@
 import Cliz from "./mainClient";
-
+export const runtime = 'edge';
 
 
 
